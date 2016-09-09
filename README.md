@@ -1,3 +1,2 @@
 # cpp_primer
-C++ Mastery
-Programming is enjoyable
+C++ Mastery. Programming is enjoyable.
